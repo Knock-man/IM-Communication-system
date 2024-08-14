@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/tx/bianchenxuexijidi.jpg</file>
+        <file>src/tx/blownbear.jpg</file>
+        <file>src/tx/dog.jpg</file>
+        <file>src/tx/duolaameng.jpg</file>
+        <file>src/tx/haimianbob.jpg</file>
+        <file>src/tx/icebear.jpg</file>
+        <file>src/tx/panda.jpg</file>
+        <file>src/tx/Simpson.jpg</file>
+        <file>src/tx/tom.jpg</file>
+        <file>src/tx/xiaoxin.jpg</file>
+        <file>src/3.gif</file>
+        <file>src/addfriend.png</file>
+        <file>src/chat.png</file>
+        <file>src/chat2.png</file>
+        <file>src/close.png</file>
+        <file>src/dongtai.png</file>
+        <file>src/emoj.png</file>
+        <file>src/emoj2.png</file>
+        <file>src/file.png</file>
+        <file>src/file2.png</file>
+        <file>src/haoyou.png</file>
+        <file>src/login_bk.jpg</file>
+        <file>src/max.png</file>
+        <file>src/min.png</file>
+        <file>src/more.png</file>
+        <file>src/more2.png</file>
+        <file>src/screenshot.png</file>
+        <file>src/screenshot2.png</file>
+        <file>src/shezhi.png</file>
+        <file>src/shut.png</file>
+        <file>src/talk.png</file>
+        <file>src/tianjia.png</file>
+        <file>src/tianjia2.png</file>
+        <file>src/tx.jpg</file>
+        <file>src/wechat.png</file>
+        <file>src/wechat2.png</file>
+        <file>src/wechat3.png</file>
+        <file>src/WeCloudIcon.png</file>
+        <file>src/weichat.png</file>
+        <file>src/wenjian.png</file>
+        <file>src/wxx.png</file>
+        <file>src/zxh.png</file>
+    </qresource>
+</RCC>
